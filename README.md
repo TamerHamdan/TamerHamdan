@@ -1,5 +1,5 @@
 ## Tamer Hamdan
-🎒 Computer Science Student<br>👾 I'm down to code & learn just about any technology<br>🏛️ I love my work,The more I learn, the more I realize how much I don’t know
+🎒 Computer Science Student<br>👾 I'm down to code & learn just about any technology<br>🏛️ I love my work... The more I learn, the more I realize how much I don’t know
 
 ## Stats :  
 
