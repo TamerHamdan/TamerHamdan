@@ -1,7 +1,7 @@
 ## Hey there 👋
-🎒 Computer Science Student  
-👾 I'm down to code & learn just about any technology  
-🎻 Outside of programming? Reading, gym, trying to learn violin but honestly... it's mostly programming.
+**🎒 Computer Science Student**  
+**👾 I'm down to code & learn just about any technology**  
+**🎻 Outside of programming? Reading, gym, trying to learn violin but honestly... it's mostly programming.**
 
 ## Stats
  ![](https://nirzak-streak-stats.vercel.app/?user=TamerHamdan&theme=radical&hide_border=true)  
